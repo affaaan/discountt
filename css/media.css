@@ -1,0 +1,136 @@
+@media (max-width:1200px) {
+    .count_down h2 {
+        font-size: 2.6rem;
+    } 
+    #clock {
+        font-size: 2.7rem;
+    }   
+}
+@media (max-width:991px) {
+    /* header */
+    .banner_section h1 {
+        font-size: 60px;
+    }
+    .banner_section p {
+        font-size: 18px;
+        margin: 0.6rem 0;
+    }
+    /* header */
+
+    /* popular */
+    .popular_menu_section h1 {
+        font-size: 2.6rem;
+    }
+    /* popular */
+
+    /* chicken wings */
+    .count_down h2 {
+        font-size: 2rem;
+    }
+    #clock {
+        font-size: 2.1rem;
+    }
+    .chicken_content h1 {
+        font-size: 2.5rem;
+    }
+    .chicken_content p {
+        margin: 15px 0px;
+        font-size: 14px;
+    }
+    /* chicken wings */
+
+    /* statistics section */
+    .statistics {
+        height: 200px;
+        padding: 10px;
+    }
+    .our_statistics_section h1 {
+        font-size: 2.6rem;
+    }
+    /* statistics section */
+
+    /* update */
+    .update_content h1 {
+        font-size: 2.3rem;
+    }
+    /* update */
+}
+@media (max-width:767px) {
+    .chicken_img {
+        margin-bottom: 8rem;
+    }
+    .count_down {
+        top: 67%;
+        left: 35%;
+    }
+    .first-carousel .popular {
+        width: 95%;
+    }
+}
+@media (max-width:575px) {
+    .first-carousel .popular {
+        width: 100%;
+    }
+   
+    .count_down {
+        top: 67%;
+        left: 26%;
+    }
+}
+@media (max-width:320px) {
+    .banner_section h1 {
+        font-size: 47px;
+    } 
+    .banner_section p {
+        font-size: 14px;
+    }
+    .popular_menu_section h1 {
+        font-size: 2.3rem;
+    }
+    .popular_menu_section p {
+        font-size: 14px;
+    }   
+    .popular h4 {
+        font-size: 1.2rem;
+    }
+    .chicken_content {
+        margin-top: 8rem;
+    }
+    .count_down h2 {
+        font-size: 1.4rem;
+    }
+    #clock {
+        font-size: 1.5rem;
+    }
+    .count_down {
+        top: 54%;
+        left: 35%;
+    }
+    .our_statistics_section h1 {
+        font-size: 2rem;
+    }
+    .our_statistics_section p {
+        font-size: 15px;
+    }
+    .luella p {
+        font-size: 30px;
+    }
+    .rating_section h1 {
+        font-size: 35px;
+    }
+    .rating_section li {
+        font-size: 25px;
+    }
+    .update_content h1 {
+        font-size: 1.5rem;
+    }
+    .update_content p {
+        font-size: 15px;
+    }
+    .update_section {
+        min-height: 60vh;
+    }
+    .update_content {
+        margin-top: 3rem;
+    }
+}
